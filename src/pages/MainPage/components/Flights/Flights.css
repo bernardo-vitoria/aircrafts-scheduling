@@ -1,0 +1,21 @@
+.flights-body {
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 84vh;
+}
+
+.flights-header {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.flights-header_title {
+    padding: 8px;
+    text-align: center;
+    padding-bottom: 4px;
+};
+
+.flights-header_error {
+    display: flex
+};

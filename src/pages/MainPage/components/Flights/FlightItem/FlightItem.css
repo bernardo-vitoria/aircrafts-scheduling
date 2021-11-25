@@ -1,0 +1,13 @@
+.card-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-body_column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flight-item:hover {
+    background-color: red;
+}

@@ -1,0 +1,19 @@
+{
+    "aircrafts": {
+        "aircrafts": "Aircrafts",
+        "aircraft": "Aircraft",
+        "ocupation": "Ocupation"
+    },
+    "flights": {
+        "flights": "Flights",
+        "error": "The last item can not be added, please add another flight"
+    },
+    "rotations": {
+        "rotation": "Rotation",
+        "flight": "Flight",
+        "origin": "Origin",
+        "destination": "Destination",
+        "arrival": "Arrival",
+        "departure": "Departure"
+    }
+}

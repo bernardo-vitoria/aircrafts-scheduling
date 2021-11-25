@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AircraftItem should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-f1vg69-MuiPaper-root"
+  >
+    <div
+      class="card-header"
+    >
+      <div
+        class="card-title"
+      >
+        Aircraft: 
+        <b>
+          GABCD
+        </b>
+      </div>
+      <div
+        class="card-icon"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium css-ci5apu-MuiSvgIcon-root"
+          data-testid="AirplanemodeActiveIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M22 16v-2l-8.5-5V3.5c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5V9L2 14v2l8.5-2.5V19L8 20.5V22l4-1 4 1v-1.5L13.5 19v-5.5L22 16z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      class="card-body"
+    >
+      <div
+        class="card-body_column"
+      >
+        <div
+          style="text-align: left;"
+        >
+          Ocupation: 
+        </div>
+      </div>
+      <div
+        class="card-body_column"
+      >
+        <div
+          style="text-align: right;"
+        >
+          <b>
+            0
+            %
+          </b>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

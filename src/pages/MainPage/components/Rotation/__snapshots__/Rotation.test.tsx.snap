@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rotation should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-9j59e7-MuiPaper-root"
+  >
+    <div
+      class="rotation-title"
+    >
+      Rotation 
+    </div>
+    <div
+      class="css-1lgskws-MuiStack-root"
+    >
+      <div
+        class="rotation"
+      />
+    </div>
+  </div>
+</div>
+`;

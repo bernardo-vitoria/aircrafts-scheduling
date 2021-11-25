@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+  >
+    <div
+      class="header"
+    >
+      <button
+        class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium css-ci5apu-MuiSvgIcon-root"
+          data-testid="ArrowBackIosIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M11.67 3.87 9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+          />
+        </svg>
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+      <div>
+        25th November 2021
+      </div>
+      <button
+        class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium css-ci5apu-MuiSvgIcon-root"
+          data-testid="ArrowForwardIosIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M6.23 20.23 8 22l10-10L8 2 6.23 3.77 14.46 12z"
+          />
+        </svg>
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

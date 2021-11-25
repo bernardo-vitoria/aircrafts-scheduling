@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlightItem should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-poj73t-MuiPaper-root"
+  >
+    <span
+      class="flight-item"
+    >
+      <div>
+        <b>
+          AS1001
+        </b>
+      </div>
+      <div
+        class="card-body"
+      >
+        <div
+          class="card-body_column"
+        >
+          <div>
+            LFSB
+          </div>
+          <div>
+            06:00
+          </div>
+        </div>
+        <div
+          class="card-body_column"
+        >
+          <div>
+            LFMN
+          </div>
+          <div>
+            07:15
+          </div>
+        </div>
+      </div>
+    </span>
+  </div>
+</div>
+`;

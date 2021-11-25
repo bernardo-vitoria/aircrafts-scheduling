@@ -1,0 +1,24 @@
+.card-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-body_column {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-header_title {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-header_icon {
+    display: flex;
+    flex-direction: column;
+}
