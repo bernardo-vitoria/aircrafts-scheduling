@@ -1,4 +1,4 @@
-# Mosano Challenge
+# Aircrafts Schedules
 ###### by Bernardo Vitória
 ###### bernardovitoria13@gmail.com
 
